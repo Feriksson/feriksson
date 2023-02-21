@@ -31,7 +31,7 @@ I am Mazzoni Fernando, from Argentina, i am currently working on MacherIT, learn
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="postgresql" width="40" height="40"/></a> 
 </p>
 
-# <h3 align="left">💻 Others Tools:</h3>
+# <h3 align="left">Others Tools:</h3>
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 <p align="center">
