@@ -1,17 +1,8 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Babylonica&family=Caveat:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <title>Document</title>
-</head>
-<body>
-
-
+    
     <div class="intro">
         <div class="intro__title-main">U just landed on my github profile!</div>
         <div class="intro__title-secondary">U are welcome..</div>
