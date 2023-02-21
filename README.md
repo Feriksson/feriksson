@@ -6,7 +6,7 @@
 
 I am Mazzoni Fernando, from Argentina, i am currently working on MacherIT, learning & improving my skills every day in this exciting world of technology ! 🦾. Long life to stackoverflow !
  
-# <h2 align="left">Languages and Tools:</h3>
+# <h2 align="left">Languages:</h2>
 
 <p align="center">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
@@ -31,12 +31,8 @@ I am Mazzoni Fernando, from Argentina, i am currently working on MacherIT, learn
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="postgresql" width="40" height="40"/></a> 
 </p>
 
-
-
-<summary><h2>🛠️ My Favorite Tools</h2></summary>
+# <h2 align="left">💻 Software and Tools:</h2>
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-<h3>💻 Software and Tools</h3>
 
 <p align="center">
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
