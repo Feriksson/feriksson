@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feriksson&label=Profile%20views&color=0e75b6&style=flat" alt="feriksson" /> </p>
 
-I am Mazzoni Fernando, from Argentina, i am currently working on MacherIT, learning & improving my skills every day in this exciting world of technologyiya 🦾. Long life to stackoverflow !
+I am Mazzoni Fernando, from Argentina, i am currently working on MacherIT, learning & improving my skills every day in this exciting world of technology ! 🦾. Long life to stackoverflow !
  
 # <h2 align="left">Languages and Tools:</h3>
 
