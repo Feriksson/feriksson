@@ -1,7 +1,3 @@
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Babylonica&family=Caveat:wght@400;500;600;700&display=swap" rel="stylesheet">
-    
     <div class="intro">
         <div class="intro__title-main">U just landed on my github profile!</div>
         <div class="intro__title-secondary">U are welcome..</div>
