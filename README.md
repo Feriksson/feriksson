@@ -1,10 +1,10 @@
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, welcome to my HUB <𝚌𝚘𝚍𝚎𝚛𝚜!> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1> Welcome to my HUB <𝚌𝚘𝚍𝚎𝚛𝚜!> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-fernandonqn86@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:fernandonqn86@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feriksson&label=Profile%20views&color=0e75b6&style=flat" alt="feriksson" /> </p>
 
-I am Mazzoni Fernando, from Argentina, i am currently working on MacherIT, learning & improving my skills every day in this exciting world of technology ! 🦾. Long life to stackoverflow !
+I'm Mazzoni Fernando, from Argentina, i am currently working on MacherIT, learning & improving my skills every day in this exciting world of technology ! 🦾. Long life to stackoverflow !
  
 # <h3 align="left">Technologyes:</h3>
 
