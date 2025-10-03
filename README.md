@@ -3,7 +3,7 @@
     < devs!>
 </h1>
 
-I'm Mazzoni Fernando, a full stack dev, from Argentina, i am currently at Macher IT, improving my skills at every day, and learning continuestly in this exciting world of technology ! 🦾 , as we say .. ! long life to stackoverflow !
+I'm Mazzoni Fernando, a full stack dev, from Argentina, i am currently at Macher IT, improving my skills at every day, and learning continuestly in this exciting world of technology ! 🦾
 
 [![Gmail Badge](https://img.shields.io/badge/-fernandonqn86@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:fernandonqn86@gmail.com)
 
