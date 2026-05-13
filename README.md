@@ -30,7 +30,7 @@ const fernando = {
 
 ### /contact
 
-`fernandonqn86@gmail.com` · [LinkedIn](https://www.linkedin.com/in/feriksson/)
+`fernandonqn86@gmail.com` · [LinkedIn](https://www.linkedin.com/in/mazzoni-f/)
 
 ---
 
