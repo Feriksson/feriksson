@@ -1,20 +1,37 @@
-<h1>
-    &lt;for-devs&gt;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">&lt;/for-devs&gt;
-</h1>
+> 👋 Welcome. I'm Fernando - glad you stopped by.
 
-Hello👋 from Argentina, i am currently working at Macher IT, improving my skills at every day, and learning continuestly in this exciting world of technology ! 🦾
+# Fernando
 
-[![Gmail Badge](https://img.shields.io/badge/-fernandonqn86@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:fernandonqn86@gmail.com)
+Desarrollador Digital · Neuquén, AR - building things that age well.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=feriksson&label=Visitors&color=0e75b6&style=flat" alt="feriksson" /> </p>
+---
 
-<hr>
+### /now
 
-<h3>My Strongs Stacks</h3>  
+Working at **SYNXS**.
 
-<div style="display: flex; flex-direction: row;justify-content:center; gap:2rem; padding: 2.5rem">
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="php" width="60" height="60"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>
-</div>
+### /me
+
+```typescript
+const fernando = {
+  location:   "Neuquén, Argentina",
+  role:       "Founder @ Synxs",
+  focus:      ["Clean Architecture", "SOLID", "DDD", "TDD", "SDD"],
+  currently:  "Sharpening patterns, breaking shortcuts",
+  drivenBy:   "Construir cosas que envejezcan bien"
+};
+```
+
+### /stack
+
+**Strongest** - PHP · Java · Laravel · PostgreSQL · Docker  
+**Comfortable** - C# · .NET · MySQL · Redis  
+**Exploring** - Almost all the rest!
+
+### /contact
+
+`fernandonqn86@gmail.com` · [LinkedIn](https://www.linkedin.com/in/feriksson/)
+
+---
+
+![snake](https://raw.githubusercontent.com/feriksson/feriksson/output/github-contribution-grid-snake-dark.svg)
